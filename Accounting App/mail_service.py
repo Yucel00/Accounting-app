@@ -5,11 +5,11 @@ import threading
 from tkinter import messagebox
 
 """'-----------------------------------------------Mail Islemleri-----------------------------------------------------------"""
-MY_EMAIL = "cetyn401@gmail.com" 
-PASSWORD = 'viypbquerwvitezi'
+MY_EMAIL = "your_emaıl" 
+PASSWORD = 'your_password'
 SMTP_SERVER = "smtp.gmail.com"
 PORT = 587
-RECIPIENT = "cetyn401@gmail.com"
+RECIPIENT = "reciving_mail"
 SUBJECT = "Deneme E-postası"
 BODY = "Bu, threading kullanarak gönderilen bir deneme e-postasıdır."
 
